@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('./assets/BackGround_Image.png'); /* Replace with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    height: 100%; /* Set the height to fill the entire viewport */
+    width: 100%;  /* Set the width to fill the entire viewport */
+  }
